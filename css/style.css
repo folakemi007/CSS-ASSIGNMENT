@@ -1,0 +1,26 @@
+.heading{
+    font-size: 18px;
+    
+}
+
+
+.container{
+    font-size: 14px;
+    margin: auto;
+    padding: 50px;
+    border: width 200px;
+    width: 1000px;
+}
+
+
+.write-up{
+    color: green;
+}
+
+.content{
+    color: red;
+}
+
+.text{
+    color: blue;
+}
